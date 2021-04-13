@@ -1,0 +1,16 @@
+body{
+	background-color: #ffb162;
+	padding:50px;}
+body#earth{
+	background-color: green;}
+h1{color:#a33800;
+	font-size: 50px;
+	/*to create a comment in CSS use /*line of code*/
+	/*border: 2px solid red;*/
+	width:800px;
+	margin: 50 auto;
+	text-align: center;
+	background-color: #feff8f;}
+p{font-family: 'Courier New', monospace;}
+a{text-decoration: none;
+	color: white;}
